@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "inquirer": "^9.2.12",
     "open": "^9.1.0",
     "opn": "^6.0.0",
     "svg.js": "^2.7.1"
